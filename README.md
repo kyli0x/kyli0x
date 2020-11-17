@@ -3,14 +3,19 @@
 [3]: https://mailto:kyli0x@protonmail.ch
 
 <samp>
-  ## Greetings & Salutations!
-  ## Whoami
+Greetings & Salutations!
+<br><br>
+Whoami:
+<br><br>
 I am known by Kyli0x, but you can call me Kyli0x.
-  ## Contact Information
+<br><br>
+Contact Information:
+ </samp>
 + Twitter: [kyli0x][1]
 + Discord: [kyli0x#4281][2]
 + Email: [kyli0x@protonmail.ch][3]
 <br><br>
+<samp>
   I like to reverse all the things.
 <br>
   </samp>
