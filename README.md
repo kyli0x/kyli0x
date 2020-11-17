@@ -11,9 +11,9 @@
  <br><br>
  Contact Information:
 </samp>
-+ Twitter: [kyli0x][1]
-+ Discord: [kyli0x#4281][2]
-+ Email: [kyli0x@protonmail.ch][3]
++Twitter: [kyli0x][1]
++Discord: [kyli0x#4281][2]
++Email: [kyli0x@protonmail.ch][3]
 <br>
 <samp>
  I like to reverse all the things.
