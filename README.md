@@ -7,7 +7,7 @@
  <br><br>
  Whoami:
  <br>
- I am known by Kyli0x, but you can call me Kyli0x.
+Kyli0x
  <br><br>
  Contact Information:
 </samp>
